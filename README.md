@@ -12,7 +12,7 @@ En principio el proyecto será un juego de hundir el barco (Hasta ahora solo est
   -El usuario puede ver una lista de las partidas disponibles(aquellas que solo cuentan con un jugador y unirse a la que desee dandole click al nombre de la partida, una   vez se una la partida pasará a la fase de "jugando" y el sistema notificará a ambos usuarios de que se empiece a jugar.
   
   -El usuario puede salir de la sesión dandole al botón "salir" el cual hará que se cierren las partidas de las que forma parte y las finalizará.
-  
+
 # Instrucciones
 - En caso de clonar el repositorio:
 
@@ -45,4 +45,5 @@ En principio el proyecto será un juego de hundir el barco (Hasta ahora solo est
   ```
   https://proyectoprocesos-fmd4gg64ea-ew.a.run.app
   ```
-  
+  # Video Explicativo
+  https://pruebasaluuclm-my.sharepoint.com/:v:/g/personal/maria_gomez60_alu_uclm_es/EUopHJbA699OgxPZ8UJCw-wBbIXOL9ZKXmrQOxt2lG9SMw
